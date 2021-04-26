@@ -23,7 +23,7 @@
     <clustering.services_implementation.version>0.4.3-SNAPSHOT</clustering.services_implementation.version>
     <clustering.stub.version>0.4.2-SNAPSHOT</clustering.stub.version>
     <commons.httpclient.version>0.1.2-SNAPSHOT</commons.httpclient.version>
-    <commons.io.version>2.4</commons.io.version>
+    <commons.io.version>2.7</commons.io.version>
     <commons.lang.version>3.1</commons.lang.version>
     <compiler.version>2.3.2</compiler.version>
     <concepts.version>0.5.2-SNAPSHOT</concepts.version>
